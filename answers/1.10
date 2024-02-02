@@ -1,0 +1,2 @@
+docker exec -it newname /bin/sh
+docker run -it jfalck598/myflaskapp:latest /bin/sh
